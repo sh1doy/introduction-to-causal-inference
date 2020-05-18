@@ -1,2 +1,1 @@
-# introduction-to-causal-inference
-# introduction-to-causal-inference
+# 効果検証入門
