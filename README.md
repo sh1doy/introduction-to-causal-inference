@@ -1,6 +1,6 @@
 # 効果検証入門
 
-`scipy.stats` を使わずにPythonで実装していきます
+テスト付き
 
 ## Changelog
 
